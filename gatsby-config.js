@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Steve Mendis`,
+    title: `GeekyTorium - By Steve Mendis`,
     author: {
       name: `Steve Mendis`,
       summary: `Software Engineer at Persistent Systems.`
