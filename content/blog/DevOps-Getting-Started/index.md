@@ -1,12 +1,10 @@
 ---
-title: Hello Steve
-date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+title: DevOps - Getting Started
+date: "2021-01-20T22:12:03.284Z"
+description: This article is mainly for people with a little understanding of the development lifecycle. Having some knowledge about the Agile Methodology would be a plus.
 ---
 
-This is my first post on my new fake blog! How exciting!
-
-I'm sure I'll write a lot more interesting things in the future.
+##### Written by : Steve Mendis, Vaishnavi Nayak
 
 Oh, and here's a great quote from this Wikipedia on
 [salted duck eggs](https://en.wikipedia.org/wiki/Salted_duck_egg).
