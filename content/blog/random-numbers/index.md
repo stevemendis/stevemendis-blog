@@ -1,7 +1,7 @@
 ---
-title: New Beginnings
-date: "2015-05-28T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
+title: How Random are Random Numbers? How to Generate them using Python?
+date: "2021-01-03T22:40:32.169Z"
+description: The main focus of this article is towards understanding the functionality of a module named Random which is a part of Python’s standard library.
 ---
 
 Far far away, behind the word mountains, far from the countries Vokalia and
